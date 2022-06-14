@@ -77,7 +77,7 @@ const (
 	// EventSubscribeMsgPopupEvent 订阅通知事件推送
 	EventSubscribeMsgPopupEvent EventType = "subscribe_msg_popup_event"
 	// EventPublishJobFinish 发布任务完成
-	EventPublishJobFinish EventType = "PUBLISHJOBFINISH
+	EventPublishJobFinish EventType = "PUBLISHJOBFINISH"
 	// EventUserEnterSession 用户进入客服会话
 	EventUserEnterSession EventType = "user_enter_tempsession"
 )
